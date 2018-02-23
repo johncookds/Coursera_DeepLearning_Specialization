@@ -1,2 +1,3 @@
 # Coursera_DeepLearning_Specialization
-Work for the Deep Learning Specialization Course on Coursera
+
+Contains the ipython notebook work completed for the Coursera Deep Learning Specialization from https://www.deeplearning.ai/
